@@ -3,7 +3,7 @@ package lesson5;
 import java.util.Scanner;
 
 public class MyHomeTaskLesson5 {
-    public static void main (String[] args){
+    /*public static void main (String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.print("Please, enter a:");
         String ReadFromConsoleA = scanner.nextLine();
@@ -30,5 +30,6 @@ public class MyHomeTaskLesson5 {
     public static void print (String result) {
         System.out.println(result);
     }
+*/
 
 }
